@@ -1,0 +1,4 @@
+{
+  "TypeName":"AWS::Lambda::Function",
+  "Identifier":"arn:aws:lambda:us-west-2:704700539638:function:orch-demo-system-requestapproval"
+}
